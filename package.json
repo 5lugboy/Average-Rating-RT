@@ -1,0 +1,9 @@
+{
+  "name": "rt-api",
+  "version": "1.0.0",
+  "main": "api/rt-rating.js",
+  "dependencies": {
+    "puppeteer-core": "^21.3.8",
+    "chrome-aws-lambda": "^10.1.0"
+  }
+}
